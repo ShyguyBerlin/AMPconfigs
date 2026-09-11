@@ -1,0 +1,9 @@
+[
+    {
+        "UpdateStageName": "Install/ Update",
+        "UpdateStageDescription": "Installing via SteamDB",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "SteamCMD",
+        "UpdateSourceData": "4550060"
+    }
+]
